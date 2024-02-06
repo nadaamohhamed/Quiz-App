@@ -10,4 +10,4 @@
 
 ## Preview
 
-- <img src="/img/1.png" alt="Alt text" title="Main_Screen" height="200" style="padding-right: 20px;"> <img src="/img/2.png" alt="Alt text" title="Questions_Screen" height="200" style="padding-right: 20px;">    <img src="/img/3.png" alt="Alt text" title="Results_Screen" height="200">
+- <img src="/img/1.png" alt="Alt text" title="Main_Screen" height="500" style="padding-right: 20px;"> <img src="/img/2.png" alt="Alt text" title="Questions_Screen" height="500" style="padding-right: 20px;">    <img src="/img/3.png" alt="Alt text" title="Results_Screen" height="500">
